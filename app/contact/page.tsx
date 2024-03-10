@@ -6,7 +6,7 @@ import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Twitter size={20} />,
+		icon: <LinkedIn size={20} />,
 		href: "https://twitter.com/1dericknguyen",
 		label: "Twitter",
 		handle: "@1dericknguyen",
@@ -22,12 +22,6 @@ const socials = [
 		href: "https://github.com/derickcnguyen",
 		label: "Github",
 		handle: "derickcnguyen",
-	},
-	{
-		icon: <LinkedIn size={20} />,
-		href: "https://linkedIn.com/1derick-nguyen",
-		label: "LinkedIn",
-		handle: "Derick Nguyen",
 	}
 ];
 

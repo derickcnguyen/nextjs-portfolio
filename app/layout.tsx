@@ -6,8 +6,8 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "dericknguyen.dev",
+    template: "%s | dericknguyen.dev",
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Derick Nguyen",
     card: "summary_large_image",
   },
   icons: {

@@ -36,12 +36,12 @@ export default function Home() {
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
           I'm looking forward{" "}
-{/*           <Link
+          <Link
             target="_blank"
             href="https://unkey.dev"
             className="underline duration-500 hover:text-zinc-300"
           >
-            unkey.dev */}
+            unkey.dev
           </Link> to solving the next big thing with you!
         </h2>
       </div>

@@ -9,19 +9,25 @@ const socials = [
 		icon: <Twitter size={20} />,
 		href: "https://twitter.com/1dericknguyen",
 		label: "Twitter",
-		handle: "@1dericknguyen",
+		handle: "X",
 	},
 	{
 		icon: <Mail size={20} />,
 		href: "mailto:dev@dericknguyenit@gmail.com",
 		label: "Email",
-		handle: "derick@gmail.com",
+		handle: "Email",
 	},
 	{
 		icon: <Github size={20} />,
 		href: "https://github.com/derickcnguyen",
 		label: "Github",
-		handle: "Derick Nguyen",
+		handle: "Github",
+	},	
+	{
+		icon: <LinkedIn size={20} />,
+		href: "https://linkedin.com/1derick-nguyen",
+		label: "LinkedIn",
+		handle: "LinkedIn",
 	},
 ];
 

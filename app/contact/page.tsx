@@ -9,26 +9,26 @@ const socials = [
 		icon: <Twitter size={20} />,
 		href: "https://twitter.com/1dericknguyen",
 		label: "Twitter",
-		handle: "X",
+		handle: "@1dericknguyen",
 	},
 	{
 		icon: <Mail size={20} />,
 		href: "mailto:dericknguyenit@gmail.com",
 		label: "Email",
-		handle: "Email",
+		handle: "dericknguyenit@gmail.com",
 	},
 	{
 		icon: <Github size={20} />,
 		href: "https://github.com/derickcnguyen",
 		label: "Github",
-		handle: "Github",
-	},	
+		handle: "derickcnguyen",
+	},
 	{
 		icon: <LinkedIn size={20} />,
-		href: "https://linkedin.com/1derick-nguyen",
+		href: "https://linkedIn.com/1derick-nguyen",
 		label: "LinkedIn",
-		handle: "LinkedIn",
-	},
+		handle: "Derick Nguyen",
+	}
 ];
 
 export default function Example() {
